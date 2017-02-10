@@ -1,0 +1,9 @@
+employees.add(new Executive("Alex Thompson", 70000));	
+		employees.add(new Commission("Susan Johnson",100000,.20));    
+		employees.add(new PartTime("Christi Bunch", 42, 7.50));    
+		employees.add(new Executive("John Stewart", 85000));   
+		emploemployees.add(new Executive("Alex Thompson", 70000));	// 5833.33 Monthly
+		employees.add(new Commission("Susan Johnson",100000,.20));    //20000 Bi-Monthly
+		employees.add(new PartTime("Christi Bunch", 42, 7.50));    // 322.50 weekly
+		employees.add(new Executive("John Stewart", 85000));   //7083.33 Monthly
+		employees.add(new PartTime("Robert Fulton",20, 9.25));   //185 Weeklyyees.add(new PartTime("Robert Fulton",20, 9.25));   
